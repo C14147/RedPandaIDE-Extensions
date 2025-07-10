@@ -1,0 +1,2 @@
+SynthWave '84是VSCode一款可以启用霓虹灯效果的主题，为做区分，将未启用霓虹灯效果时的配色称为SynthWave，启用时称为SynthWave Neon Dreams。
+小熊猫可以还原SynthWave，但由于霓虹灯效果，SynthWave Neon Dreams不能完全还原，只能近似还原。另外，由于旧版小熊猫版本存在bug，建议使小熊猫版本不低于3.0.2665以观察到正确的效果。
