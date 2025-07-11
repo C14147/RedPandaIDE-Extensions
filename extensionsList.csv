@@ -1,0 +1,85 @@
+file_path,type,introduction,author,license
+colorSchemes/2077.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Andromeda.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Atom One Light.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Ayu Dark.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Blend2D.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Blue and White Porcelain.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Bluloco Dark.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Bluloco Light.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Borland 2.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Borland Turbo.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Borland Turbo2.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Borland.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Breeze Dark.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Breeze Light.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Catppuccin Latte.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Catppuccin Mocha.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Classic Dev.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Classic.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Codesong.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/CppReference.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Cyberpunk.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Darcula.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Darkside.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Dev Classic Minus.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Dev Classic.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Eva Dark.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Eva Light.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/GitHub Dark.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/GitHub Light.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/GitHub PTA.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Go.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/GPT.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Green Land.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/IntelliJ Light.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Keil.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Mariana.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Monokai Classic.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Monokai Pro.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/MT Darcula.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/MT IntelliJ Light.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Noctis Hibernus.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Noctis Lilac.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/None.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Nord.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Ocean.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/One Dark Extend 2.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/One Dark Pro Flat.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/One Dark Pro Vivid.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/One Dark Pro.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/One Monokai.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Red.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/RedPanda Error.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/SynthWave Neon Dreams.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/SynthWave.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/VC6 Classic.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Visual Studio 2.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Visual Studio Light.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Visual_Studio.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/VS Modern Dark.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/VS Modern Light.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Xcode Classic Dark.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/XiaoLoong Dev 2.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/XiaoLoong Dev 3.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/XiaoLoong Dev.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/XiaoLoong Github.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/XQ135 Black.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/XQ135.scheme,colorScheme, ,Ltabsyy,MIT
+colorSchemes/Zero LCH SB 1.scheme,colorScheme, ,Ltabsyy,MIT
+themes/2077.json,theme, ,Ltabsyy,MIT
+themes/molo_randomlight_10_white.json,theme, ,Ltabsyy,MIT
+themes/molo_randomlight_11_gray.json,theme, ,Ltabsyy,MIT
+themes/molo_randomlight_1_red.json,theme, ,Ltabsyy,MIT
+themes/molo_randomlight_2_orange.json,theme, ,Ltabsyy,MIT
+themes/molo_randomlight_3_flesh.json,theme, ,Ltabsyy,MIT
+themes/molo_randomlight_4_yellow.json,theme, ,Ltabsyy,MIT
+themes/molo_randomlight_5_green.json,theme, ,Ltabsyy,MIT
+themes/molo_randomlight_6_cyan.json,theme, ,Ltabsyy,MIT
+themes/molo_randomlight_7_blue.json,theme, ,Ltabsyy,MIT
+themes/molo_randomlight_8_purple.json,theme, ,Ltabsyy,MIT
+themes/molo_randomlight_9_pink.json,theme, ,Ltabsyy,MIT
+themes/monokai_pro.json,theme, ,Ltabsyy,MIT
+themes/vs_modern_dark.json,theme, ,Ltabsyy,MIT
+themes/vs_modern_dark_newlook.json,theme, ,Ltabsyy,MIT
+themes/xq135.json,theme,
