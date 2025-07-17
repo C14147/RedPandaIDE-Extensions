@@ -1,812 +1,714 @@
-[
-    {
+{
+    "2077": {
         "file_path": "colorSchemes/2077.scheme",
         "type": "colorScheme",
-        "name": "2077",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
         "special_cmd": ""
     },
-    {
+    "Andromeda": {
         "file_path": "colorSchemes/Andromeda.scheme",
         "type": "colorScheme",
-        "name": "Andromeda",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
         "special_cmd": ""
     },
-    {
+    "Atom One Light": {
         "file_path": "colorSchemes/Atom One Light.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Atom One Light"
+        "special_cmd": ""
     },
-    {
+    "Ayu Dark": {
         "file_path": "colorSchemes/Ayu Dark.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Ayu Dark"
+        "special_cmd": ""
     },
-    {
+    "Blend2D": {
         "file_path": "colorSchemes/Blend2D.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Blend2D"
+        "special_cmd": ""
     },
-    {
+    "Blue and White Porcelain": {
         "file_path": "colorSchemes/Blue and White Porcelain.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Blue and White Porcelain"
+        "special_cmd": ""
     },
-    {
+    "Bluloco Dark": {
         "file_path": "colorSchemes/Bluloco Dark.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Bluloco Dark"
+        "special_cmd": ""
     },
-    {
+    "Bluloco Light": {
         "file_path": "colorSchemes/Bluloco Light.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Bluloco Light"
+        "special_cmd": ""
     },
-    {
+    "Borland 2": {
         "file_path": "colorSchemes/Borland 2.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Borland 2"
+        "special_cmd": ""
     },
-    {
+    "Borland Turbo": {
         "file_path": "colorSchemes/Borland Turbo.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Borland Turbo"
+        "special_cmd": ""
     },
-    {
+    "Borland Turbo2": {
         "file_path": "colorSchemes/Borland Turbo2.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Borland Turbo2"
+        "special_cmd": ""
     },
-    {
+    "Borland": {
         "file_path": "colorSchemes/Borland.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Borland"
+        "special_cmd": ""
     },
-    {
+    "Breeze Dark": {
         "file_path": "colorSchemes/Breeze Dark.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Breeze Dark"
+        "special_cmd": ""
     },
-    {
+    "Breeze Light": {
         "file_path": "colorSchemes/Breeze Light.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Breeze Light"
+        "special_cmd": ""
     },
-    {
+    "Catppuccin Latte": {
         "file_path": "colorSchemes/Catppuccin Latte.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Catppuccin Latte"
+        "special_cmd": ""
     },
-    {
+    "Catppuccin Mocha": {
         "file_path": "colorSchemes/Catppuccin Mocha.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Catppuccin Mocha"
+        "special_cmd": ""
     },
-    {
+    "Classic Dev": {
         "file_path": "colorSchemes/Classic Dev.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Classic Dev"
+        "special_cmd": ""
     },
-    {
+    "Classic": {
         "file_path": "colorSchemes/Classic.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Classic"
+        "special_cmd": ""
     },
-    {
+    "Codesong": {
         "file_path": "colorSchemes/Codesong.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Codesong"
+        "special_cmd": ""
     },
-    {
+    "CppReference": {
         "file_path": "colorSchemes/CppReference.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "CppReference"
+        "special_cmd": ""
     },
-    {
+    "Cyberpunk": {
         "file_path": "colorSchemes/Cyberpunk.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Cyberpunk"
+        "special_cmd": ""
     },
-    {
+    "Darcula": {
         "file_path": "colorSchemes/Darcula.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Darcula"
+        "special_cmd": ""
     },
-    {
+    "Darkside": {
         "file_path": "colorSchemes/Darkside.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Darkside"
+        "special_cmd": ""
     },
-    {
+    "Dev Classic Minus": {
         "file_path": "colorSchemes/Dev Classic Minus.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Dev Classic Minus"
+        "special_cmd": ""
     },
-    {
+    "Dev Classic": {
         "file_path": "colorSchemes/Dev Classic.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Dev Classic"
+        "special_cmd": ""
     },
-    {
+    "Eva Dark": {
         "file_path": "colorSchemes/Eva Dark.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Eva Dark"
+        "special_cmd": ""
     },
-    {
+    "Eva Light": {
         "file_path": "colorSchemes/Eva Light.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Eva Light"
+        "special_cmd": ""
     },
-    {
+    "GitHub Dark": {
         "file_path": "colorSchemes/GitHub Dark.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "GitHub Dark"
+        "special_cmd": ""
     },
-    {
+    "GitHub Light": {
         "file_path": "colorSchemes/GitHub Light.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "GitHub Light"
+        "special_cmd": ""
     },
-    {
+    "GitHub PTA": {
         "file_path": "colorSchemes/GitHub PTA.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "GitHub PTA"
+        "special_cmd": ""
     },
-    {
+    "Go": {
         "file_path": "colorSchemes/Go.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Go"
+        "special_cmd": ""
     },
-    {
+    "GPT": {
         "file_path": "colorSchemes/GPT.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "GPT"
+        "special_cmd": ""
     },
-    {
+    "Green Land": {
         "file_path": "colorSchemes/Green Land.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Green Land"
+        "special_cmd": ""
     },
-    {
+    "IntelliJ Light": {
         "file_path": "colorSchemes/IntelliJ Light.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "IntelliJ Light"
+        "special_cmd": ""
     },
-    {
+    "Keil": {
         "file_path": "colorSchemes/Keil.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Keil"
+        "special_cmd": ""
     },
-    {
+    "Mariana": {
         "file_path": "colorSchemes/Mariana.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Mariana"
+        "special_cmd": ""
     },
-    {
+    "Monokai Classic": {
         "file_path": "colorSchemes/Monokai Classic.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Monokai Classic"
+        "special_cmd": ""
     },
-    {
+    "Monokai Pro": {
         "file_path": "colorSchemes/Monokai Pro.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Monokai Pro"
+        "special_cmd": ""
     },
-    {
+    "MT Darcula": {
         "file_path": "colorSchemes/MT Darcula.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "MT Darcula"
+        "special_cmd": ""
     },
-    {
+    "MT IntelliJ Light": {
         "file_path": "colorSchemes/MT IntelliJ Light.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "MT IntelliJ Light"
+        "special_cmd": ""
     },
-    {
+    "Noctis Hibernus": {
         "file_path": "colorSchemes/Noctis Hibernus.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Noctis Hibernus"
+        "special_cmd": ""
     },
-    {
+    "Noctis Lilac": {
         "file_path": "colorSchemes/Noctis Lilac.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Noctis Lilac"
+        "special_cmd": ""
     },
-    {
+    "None": {
         "file_path": "colorSchemes/None.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "None"
+        "special_cmd": ""
     },
-    {
+    "Nord": {
         "file_path": "colorSchemes/Nord.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Nord"
+        "special_cmd": ""
     },
-    {
+    "Ocean": {
         "file_path": "colorSchemes/Ocean.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Ocean"
+        "special_cmd": ""
     },
-    {
+    "One Dark Extend 2": {
         "file_path": "colorSchemes/One Dark Extend 2.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "One Dark Extend 2"
+        "special_cmd": ""
     },
-    {
+    "One Dark Pro Flat": {
         "file_path": "colorSchemes/One Dark Pro Flat.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "One Dark Pro Flat"
+        "special_cmd": ""
     },
-    {
+    "One Dark Pro Vivid": {
         "file_path": "colorSchemes/One Dark Pro Vivid.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "One Dark Pro Vivid"
+        "special_cmd": ""
     },
-    {
+    "One Dark Pro": {
         "file_path": "colorSchemes/One Dark Pro.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "One Dark Pro"
+        "special_cmd": ""
     },
-    {
+    "One Monokai": {
         "file_path": "colorSchemes/One Monokai.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "One Monokai"
+        "special_cmd": ""
     },
-    {
+    "Red": {
         "file_path": "colorSchemes/Red.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Red"
+        "special_cmd": ""
     },
-    {
+    "RedPanda Error": {
         "file_path": "colorSchemes/RedPanda Error.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "RedPanda Error"
+        "special_cmd": ""
     },
-    {
+    "SynthWave Neon Dreams": {
         "file_path": "colorSchemes/SynthWave Neon Dreams.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "SynthWave Neon Dreams"
+        "special_cmd": ""
     },
-    {
+    "SynthWave": {
         "file_path": "colorSchemes/SynthWave.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "SynthWave"
+        "special_cmd": ""
     },
-    {
+    "VC6 Classic": {
         "file_path": "colorSchemes/VC6 Classic.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "VC6 Classic"
+        "special_cmd": ""
     },
-    {
+    "Visual Studio 2": {
         "file_path": "colorSchemes/Visual Studio 2.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Visual Studio 2"
+        "special_cmd": ""
     },
-    {
+    "Visual Studio Light": {
         "file_path": "colorSchemes/Visual Studio Light.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Visual Studio Light"
+        "special_cmd": ""
     },
-    {
+    "Visual_Studio": {
         "file_path": "colorSchemes/Visual_Studio.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Visual_Studio"
+        "special_cmd": ""
     },
-    {
+    "VS Modern Dark": {
         "file_path": "colorSchemes/VS Modern Dark.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "VS Modern Dark"
+        "special_cmd": ""
     },
-    {
+    "VS Modern Light": {
         "file_path": "colorSchemes/VS Modern Light.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "VS Modern Light"
+        "special_cmd": ""
     },
-    {
+    "Xcode Classic Dark": {
         "file_path": "colorSchemes/Xcode Classic Dark.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Xcode Classic Dark"
+        "special_cmd": ""
     },
-    {
+    "XiaoLoong Dev 2": {
         "file_path": "colorSchemes/XiaoLoong Dev 2.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "XiaoLoong Dev 2"
+        "special_cmd": ""
     },
-    {
+    "XiaoLoong Dev 3": {
         "file_path": "colorSchemes/XiaoLoong Dev 3.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "XiaoLoong Dev 3"
+        "special_cmd": ""
     },
-    {
+    "XiaoLoong Dev": {
         "file_path": "colorSchemes/XiaoLoong Dev.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "XiaoLoong Dev"
+        "special_cmd": ""
     },
-    {
+    "XiaoLoong Github": {
         "file_path": "colorSchemes/XiaoLoong Github.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "XiaoLoong Github"
+        "special_cmd": ""
     },
-    {
+    "XQ135 Black": {
         "file_path": "colorSchemes/XQ135 Black.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "XQ135 Black"
+        "special_cmd": ""
     },
-    {
+    "XQ135": {
         "file_path": "colorSchemes/XQ135.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "XQ135"
+        "special_cmd": ""
     },
-    {
+    "Zero LCH SB 1": {
         "file_path": "colorSchemes/Zero LCH SB 1.scheme",
         "type": "colorScheme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "Zero LCH SB 1"
+        "special_cmd": ""
     },
-    {
-        "file_path": "themes/2077.json",
-        "type": "theme",
-        "introduction": "",
-        "author": "Ltabsyy",
-        "license": "MIT",
-        "special_cmd": "",
-        "name": "2077"
-    },
-    {
+    "molo_randomlight_10_white": {
         "file_path": "themes/molo_randomlight_10_white.json",
         "type": "theme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "molo_randomlight_10_white"
+        "special_cmd": ""
     },
-    {
+    "molo_randomlight_11_gray": {
         "file_path": "themes/molo_randomlight_11_gray.json",
         "type": "theme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "molo_randomlight_11_gray"
+        "special_cmd": ""
     },
-    {
+    "molo_randomlight_1_red": {
         "file_path": "themes/molo_randomlight_1_red.json",
         "type": "theme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "molo_randomlight_1_red"
+        "special_cmd": ""
     },
-    {
+    "molo_randomlight_2_orange": {
         "file_path": "themes/molo_randomlight_2_orange.json",
         "type": "theme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "molo_randomlight_2_orange"
+        "special_cmd": ""
     },
-    {
+    "molo_randomlight_3_flesh": {
         "file_path": "themes/molo_randomlight_3_flesh.json",
         "type": "theme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "molo_randomlight_3_flesh"
+        "special_cmd": ""
     },
-    {
+    "molo_randomlight_4_yellow": {
         "file_path": "themes/molo_randomlight_4_yellow.json",
         "type": "theme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "molo_randomlight_4_yellow"
+        "special_cmd": ""
     },
-    {
+    "molo_randomlight_5_green": {
         "file_path": "themes/molo_randomlight_5_green.json",
         "type": "theme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "molo_randomlight_5_green"
+        "special_cmd": ""
     },
-    {
+    "molo_randomlight_6_cyan": {
         "file_path": "themes/molo_randomlight_6_cyan.json",
         "type": "theme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "molo_randomlight_6_cyan"
+        "special_cmd": ""
     },
-    {
+    "molo_randomlight_7_blue": {
         "file_path": "themes/molo_randomlight_7_blue.json",
         "type": "theme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "molo_randomlight_7_blue"
+        "special_cmd": ""
     },
-    {
+    "molo_randomlight_8_purple": {
         "file_path": "themes/molo_randomlight_8_purple.json",
         "type": "theme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "molo_randomlight_8_purple"
+        "special_cmd": ""
     },
-    {
+    "molo_randomlight_9_pink": {
         "file_path": "themes/molo_randomlight_9_pink.json",
         "type": "theme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "molo_randomlight_9_pink"
+        "special_cmd": ""
     },
-    {
+    "monokai_pro": {
         "file_path": "themes/monokai_pro.json",
         "type": "theme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "monokai_pro"
+        "special_cmd": ""
     },
-    {
+    "vs_modern_dark": {
         "file_path": "themes/vs_modern_dark.json",
         "type": "theme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "vs_modern_dark"
+        "special_cmd": ""
     },
-    {
+    "vs_modern_dark_newlook": {
         "file_path": "themes/vs_modern_dark_newlook.json",
         "type": "theme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "vs_modern_dark_newlook"
+        "special_cmd": ""
     },
-    {
+    "xq135": {
         "file_path": "themes/xq135.json",
         "type": "theme",
         "introduction": "",
         "author": "Ltabsyy",
         "license": "MIT",
-        "special_cmd": "",
-        "name": "xq135"
+        "special_cmd": ""
     },
-    {
+    "MinGW32 15.1.0 WIN32 MSVCRT DWARF": {
         "file_path": "https://github.com/niXman/mingw-builds-binaries/releases/download/15.1.0-rt_v12-rev0/i686-15.1.0-release-win32-dwarf-msvcrt-rt_v12-rev0.7z",
         "type": "compiler",
         "introduction": "The MinGW32 Compiler version 15.1.0 whitch uses WIN32 Thead Library, MSVCRT and DWARF.",
         "author": "niXman",
         "license": "",
-        "special_cmd": "FILEPATH_FULL_LINK",
-        "name": "MinGW32 15.1.0 WIN32 MSVCRT DWARF"
+        "special_cmd": "FILEPATH_FULL_LINK"
     },
-    {
+    "MinGW32 15.1.0 POSIX MSVCRT DWARF": {
         "file_path": "https://github.com/niXman/mingw-builds-binaries/releases/download/15.1.0-rt_v12-rev0/i686-15.1.0-release-posix-dwarf-msvcrt-rt_v12-rev0.7z",
         "type": "compiler",
         "introduction": "The MinGW32 Compiler version 15.1.0 whitch uses POSIX Thead Library, MSVCRT and DWARF.",
         "author": "niXman",
         "license": "",
-        "special_cmd": "FILEPATH_FULL_LINK",
-        "name": "MinGW32 15.1.0 POSIX MSVCRT DWARF"
+        "special_cmd": "FILEPATH_FULL_LINK"
     },
-    {
+    "MinGW64 15.1.0 POSIX MSVCRT SEH": {
         "file_path": "https://github.com/niXman/mingw-builds-binaries/releases/download/15.1.0-rt_v12-rev0/x86_64-15.1.0-release-posix-seh-msvcrt-rt_v12-rev0.7z",
         "type": "compiler",
         "introduction": "The MinGW64 Compiler version 15.1.0 whitch uses POSIX Thead Library, MSVCRT and SEH.",
         "author": "niXman",
         "license": "",
-        "special_cmd": "FILEPATH_FULL_LINK",
-        "name": "MinGW64 15.1.0 POSIX MSVCRT SEH"
+        "special_cmd": "FILEPATH_FULL_LINK"
     },
-    {
+    "MinGW64 15.1.0 POSIX UCRT SEH": {
         "file_path": "https://github.com/niXman/mingw-builds-binaries/releases/download/15.1.0-rt_v12-rev0/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0.7z",
         "type": "compiler",
         "introduction": "The MinGW64 Compiler version 15.1.0 whitch uses POSIX Thead Library, UCRT and SEH.",
         "author": "niXman",
         "license": "",
-        "special_cmd": "FILEPATH_FULL_LINK",
-        "name": "MinGW64 15.1.0 POSIX UCRT SEH"
+        "special_cmd": "FILEPATH_FULL_LINK"
     },
-    {
+    "MinGW64 15.1.0 WIN32 MSVCRT SEH": {
         "file_path": "https://github.com/niXman/mingw-builds-binaries/releases/download/15.1.0-rt_v12-rev0/x86_64-15.1.0-release-win32-seh-msvcrt-rt_v12-rev0.7z",
         "type": "compiler",
         "introduction": "The MinGW64 Compiler version 15.1.0 whitch uses WIN32 Thead Library, MSVCRT and SEH.",
         "author": "niXman",
         "license": "",
-        "special_cmd": "FILEPATH_FULL_LINK",
-        "name": "MinGW64 15.1.0 WIN32 MSVCRT SEH"
+        "special_cmd": "FILEPATH_FULL_LINK"
     },
-    {
+    "MinGW64 15.1.0 WIN32 UCRT SEH": {
         "file_path": "https://github.com/niXman/mingw-builds-binaries/releases/download/15.1.0-rt_v12-rev0/x86_64-15.1.0-release-win32-seh-ucrt-rt_v12-rev0.7z",
         "type": "compiler",
         "introduction": "The MinGW64 Compiler version 15.1.0 whitch uses WIN32 Thead Library, UCRT and SEH.",
         "author": "niXman",
         "license": "",
-        "special_cmd": "FILEPATH_FULL_LINK",
-        "name": "MinGW64 15.1.0 WIN32 UCRT SEH"
+        "special_cmd": "FILEPATH_FULL_LINK"
     }
-]
+}
