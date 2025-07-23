@@ -669,7 +669,7 @@
         "introduction": "The MinGW32 Compiler version 15.1.0 whitch uses WIN32 Thead Library, MSVCRT and DWARF.",
         "author": "niXman",
         "license": "",
-        "special_cmd": "FILEPATH_FULL_LINK"
+        "special_cmd": "FILEPATH_FULL_LINK,WIN_ONLY"
     },
     "MinGW32 15.1.0 POSIX MSVCRT DWARF": {
         "file_path": "https://github.com/niXman/mingw-builds-binaries/releases/download/15.1.0-rt_v12-rev0/i686-15.1.0-release-posix-dwarf-msvcrt-rt_v12-rev0.7z",
@@ -677,7 +677,7 @@
         "introduction": "The MinGW32 Compiler version 15.1.0 whitch uses POSIX Thead Library, MSVCRT and DWARF.",
         "author": "niXman",
         "license": "",
-        "special_cmd": "FILEPATH_FULL_LINK"
+        "special_cmd": "FILEPATH_FULL_LINK,WIN_ONLY"
     },
     "MinGW64 15.1.0 POSIX MSVCRT SEH": {
         "file_path": "https://github.com/niXman/mingw-builds-binaries/releases/download/15.1.0-rt_v12-rev0/x86_64-15.1.0-release-posix-seh-msvcrt-rt_v12-rev0.7z",
@@ -685,7 +685,7 @@
         "introduction": "The MinGW64 Compiler version 15.1.0 whitch uses POSIX Thead Library, MSVCRT and SEH.",
         "author": "niXman",
         "license": "",
-        "special_cmd": "FILEPATH_FULL_LINK"
+        "special_cmd": "FILEPATH_FULL_LINK,WIN64_ONLY"
     },
     "MinGW64 15.1.0 POSIX UCRT SEH": {
         "file_path": "https://github.com/niXman/mingw-builds-binaries/releases/download/15.1.0-rt_v12-rev0/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0.7z",
@@ -693,7 +693,7 @@
         "introduction": "The MinGW64 Compiler version 15.1.0 whitch uses POSIX Thead Library, UCRT and SEH.",
         "author": "niXman",
         "license": "",
-        "special_cmd": "FILEPATH_FULL_LINK"
+        "special_cmd": "FILEPATH_FULL_LINK,WIN64_ONLY"
     },
     "MinGW64 15.1.0 WIN32 MSVCRT SEH": {
         "file_path": "https://github.com/niXman/mingw-builds-binaries/releases/download/15.1.0-rt_v12-rev0/x86_64-15.1.0-release-win32-seh-msvcrt-rt_v12-rev0.7z",
