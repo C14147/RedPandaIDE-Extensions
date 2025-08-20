@@ -678,5 +678,12 @@
         "author": "niXman",
         "license": "GPL-3.0",
         "special_cmd": "FILEPATH_FULL_LINK,WIN64_ONLY"      
+    },
+    "Example Plugin": {
+        "file_path": "plugins/com.redpandaide.example_plugin.1.0.0/",
+        "type": "plugin",
+        "introduction": "This is an example plugin. You can use it as a template to create your own plugins.",
+        "author": "C14147",
+        "license": "MIT"
     }
 }
